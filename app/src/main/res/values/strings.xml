@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">notes</string>
+    <string name="error_unknown">Error desconocido</string>
+    <string name="oops_something_went_wrong">¡Ups! Algo salió mal. Inténtalo de nuevo</string>
+    <string name="error_couldnt_reach_server">¡Ups! No se pudo llegar al servidor. Comprueba tu conexión a Internet.</string>
+    <string name="error_couldnt_reach_firebase">¡Ups! No se pudo llegar al servicio de firebase. Comprueba tu conexión a Internet.</string>
+    <string name="icon">Icono</string>
+    <string name="toggle_password_visibility">Cambiar visibilidad password</string>
+    <string name="valid_input">Entrada valida</string>
+    <string name="dont_have_account">No tenes cuenta ?</string>
+    <string name="have_account">Tenes cuenta ?</string>
+    <string name="sign_up">Registrate</string>
+    <string name="login">Iniciar sesion</string>
+    <string name="welcome">Bienvenido a Notes</string>
+    <string name="email_address">Direccion Email</string>
+    <string name="re_email_address">Confirmar Direccion Email</string>
+    <string name="password">Password</string>
+    <string name="re_password">Confirmar Password</string>
+    <string name="create_account">Crea tu cuenta...</string>
+    <string name="register">Registrarse</string>
+</resources>
